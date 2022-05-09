@@ -1,4 +1,6 @@
-##### This is an exported Google Document, the only way to make the notes 
-mantainable and not export a PDF. 
-[Here](https://htmlpreview.github.io/?https://github.com/glpaparelli/language-based-security/blob/main/notes/notes.html) 
-to read the notes
+### Course Summaries
+
+This is a Google Document exported as an html, since it helps with readability (infinite scroll)
+and maintainability (this way a single pdf file is avoided).
+
+[Here](https://htmlpreview.github.io/?https://github.com/glpaparelli/language-based-security/blob/main/notes/notes.html) to read the notes
